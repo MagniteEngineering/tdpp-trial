@@ -1,0 +1,11 @@
+{
+  "name": "my-interest-groups",
+  "version": "1.0.0",
+  "description": "Interface for managing a users interest groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
